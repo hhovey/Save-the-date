@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479430644662",
+    "project_id": "press-42140",
+    "storage_bucket": "press-42140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479430644662:android:1ae427b37718901cd22717",
+        "android_client_info": {
+          "package_name": "com.example.std"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479430644662-mmrb40m71fq9uf53dua46lma43enpmue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOBdkh5FYPTB2rrextJ9K-e1sjpe7IEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479430644662-mmrb40m71fq9uf53dua46lma43enpmue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
